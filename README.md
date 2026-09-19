@@ -1,5 +1,6 @@
 # W-PHP Paginator
 
+[![PHPUnit Tests](https://github.com/webkolog/php-paginator/actions/workflows/tests.yml/badge.svg)](https://github.com/webkolog/php-paginator/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version Required](https://img.shields.io/badge/php-%3D%205.4-8892bf.svg)](https://php.net)
 

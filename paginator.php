@@ -62,9 +62,9 @@ class Paginator {
 	
 	public function createLinks()
 	{
-		if (!$linkStatus)
-		{
-			$this->totalPages = ceil($this->totalRows / $this->perPage);
+		if (!$this->linkStatus)
+    	{
+        	$this->totalPages = ceil($this->totalRows / $this->perPage);
 			if (!ctype_digit($this->page))
 			{
 				if ($this->page == $this->varLast)

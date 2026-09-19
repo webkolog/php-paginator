@@ -9,7 +9,7 @@ GitHub Repo: https://github.com/webkolog/php-paginator
 Last Modified: 2016-03-10
 Created Date: 2016-03-10
 Compatibility: PHP 5.4+
-@version     1.0
+@version     1.1
 
 Copyright (C) 2015 Ali Candan
 Licensed under the MIT license http://mit-license.org
